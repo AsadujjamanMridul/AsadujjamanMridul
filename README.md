@@ -17,7 +17,7 @@ I am a full stack web developer. Currently taking a training session with **[Com
 <br/>
 
 
-## Connect with me:
+## Connect with me
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:asadujjaman.mridul@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/asadujjaman-mridul-410000194/) 
