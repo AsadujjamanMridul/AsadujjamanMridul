@@ -11,15 +11,15 @@ I am a full stack web developer. Currently taking a training session with **[Com
 - 📫 How to reach me **asadujjaman.mridul@gmail.com**
 - 👯 I’m looking **for an Internship or Part Time Job as an Full Stack Web Developer**.
 
-<br/>
 <h3 align="center">
 <a href="https://github.com/AsadujjamanMridul/AsadujjamanMridul/raw/main/Asadujjaman%20Mridul%20Resume.pdf" download>Download Resume</a>
 </h3>
 <br/>
 
 
-### Connect with me:
+## Connect with me:
 
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:asadujjaman.mridul@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/asadujjaman-mridul-410000194/) 
 [![Facebook Send Request](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/asadujjaman.mridul) 
 <br /> 
