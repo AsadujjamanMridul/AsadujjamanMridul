@@ -3,11 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-Stack%20Web%20and%20App%20Developer;Self-taught%20UI%2FUX%20Designer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=50">
-</p>
-
-I am a full stack web developer. Currently taking a training session with **Web Development With Jhankar Mahbub**
+I am a full stack web developer. Currently taking a training session with **[Complete Web Development Course with Jhankar Mahbub](https://web.programming-hero.com/)**
 
 - 🔭 I’m currently working on  [Give - A donation collection website](https://github.com/AsadujjamanMridul/give)
 - 🌱 I’m currently learning **Redux**
@@ -15,7 +11,10 @@ I am a full stack web developer. Currently taking a training session with **Web 
 - 📫 How to reach me **asadujjaman.mridul@gmail.com**
 - 👯 I’m looking **for an Internship or Part Time Job as an Full Stack Web Developer**.
 
-<a href="https://github.com/AsadujjamanMridul/AsadujjamanMridul/blob/main/Asadujjaman%20Mridul%20Resume%20(updated).pdf" download>My Resume</a>
+<h3 align="center">
+<a href="https://github.com/AsadujjamanMridul/AsadujjamanMridul/blob/main/Asadujjaman%20Mridul%20Resume%20(updated).pdf" download>Download Resume</a>
+</h3>
+<br/>
 
 
 ### Connect with me:
