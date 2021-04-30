@@ -1,31 +1,65 @@
-<h1 align="center">Hi 👋, I'm Asadujjaman Mridul</h1>
-<h3 align="center">A passionate full stack web developer from Bangladesh!</h3>
+<h2 align="center">
+  Hi there! I am Asadujjaman Mridul
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-- 🔭 I’m currently working on [Give - A donation collection website](https://github.com/AsadujjamanMridul/give)
-
-- 🌱 I’m currently learning **Redux**
-
-- 👨‍💻 All of my projects are available at [(still working on that! 🤦‍♂️)]((still working on that! 🤦‍♂️))
-
-- 💬 Ask me about **react, node, bootstrap**
-
-- 📫 How to reach me **asadujjaman.mridul@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sh1ML1SWhJhXWyI-KGQ3cdKKh55PVTg1/view](https://drive.google.com/file/d/1sh1ML1SWhJhXWyI-KGQ3cdKKh55PVTg1/view)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/asadujjaman-mridul-410000194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="asadujjaman-mridul-410000194" height="30" width="40" /></a>
-<a href="https://fb.com/asadujjaman.mridul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="asadujjaman.mridul" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/asad.mridul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="asad.mridul" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-Stack%20Web%20and%20App%20Developer;Self-taught%20UI%2FUX%20Designer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=50">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+I am a full stack web developer. Currently taking a training session with **Web Development With Jhankar Mahbub**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadujjamanmridul&show_icons=true&locale=en&layout=compact" alt="asadujjamanmridul" /></p>
+- 🔭 I’m currently working on  [Give - A donation collection website](https://github.com/AsadujjamanMridul/give)
+- 🌱 I’m currently learning **Redux**
+- 💬 Ask me about **react, node, bootstrap**
+- 📫 How to reach me **asadujjaman.mridul@gmail.com**
+- 👯 I’m looking **for an Internship or Part Time Job as an Full Stack Web Developer**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadujjamanmridul&show_icons=true&locale=en" alt="asadujjamanmridul" /></p>
+<a href="https://github.com/AsadujjamanMridul/AsadujjamanMridul/blob/main/Asadujjaman%20Mridul%20Resume%20(updated).pdf" download>My Resume</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadujjamanmridul&" alt="asadujjamanmridul" /></p>
 
+### Connect with me:
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/asadujjaman-mridul-410000194/) 
+[![Facebook Send Request](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/asadujjaman.mridul) 
+<br /> 
+
+## Languages & Tools
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![BootStrap5](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=bootstrap)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php) <br />
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br/>
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux) <br/>
+![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase) 
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku) <br/>
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000005?style=flat&logo=visual%20studio%20code) <br/>
+![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
+![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
+![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
+![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)
+![Adobe Xd](https://img.shields.io/badge/-Adobe%20Xd-000000?style=flat&logo=adobe%20xd)
+
+## GitHub Overview
+
+<p align="center">
+ <a href="https://github.com/asadujjamanmridul"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadujjamanmridul&theme=blood-dark"></a>
+</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=asadujjamanmridul&theme=dracula&show_icons=true" />
+<p align="center">
+  <a href="https://github.com/iamraufu"> <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=asadujjamanmridul&layout=compact&theme=dracula" />
+</a>
+</p>
