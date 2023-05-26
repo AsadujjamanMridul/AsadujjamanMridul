@@ -12,7 +12,7 @@ I am a full stack web developer. Currently taking a training session with **[Com
 - 👯 I’m looking **for an Internship or Part Time Job as an Full Stack Web Developer**.
 
 <h3 align="center">
-<a href="https://github.com/AsadujjamanMridul/AsadujjamanMridul/blob/main/Asadujjaman%20Mridul%20Resume.pdf" download>Download Resume</a>
+<a href="https://github.com/AsadujjamanMridul/AsadujjamanMridul/raw/main/Asadujjaman%20Mridul%20Resume.pdf" download>Download Resume</a>
 </h3>
 <br/>
 
