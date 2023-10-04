@@ -5,7 +5,7 @@
 
 I am a full stack web developer. Currently taking a training session with **[Complete Web Development Course with Jhankar Mahbub](https://web.programming-hero.com/)**
 
-- 🔭 I’m currently working on  [Give - A donation collection website](https://github.com/AsadujjamanMridul/give)
+- 🔭 I’m currently working on my [portfolio](https://asad-mridul.netlify.app)
 - 🌱 I’m currently learning **Redux**
 - 💬 Ask me about **react, node, bootstrap**
 - 📫 How to reach me **asadujjaman.mridul@gmail.com**
