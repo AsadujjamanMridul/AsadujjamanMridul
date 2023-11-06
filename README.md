@@ -55,9 +55,9 @@ I am a full stack web developer. Currently taking a training session with **[Com
 
 ## GitHub Overview
 
-<p align="center">
+<!--- <p align="center">
  <a href="https://github.com/asadujjamanmridul"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadujjamanmridul&theme=vue-dark&hide_border=true"></a>
-</p>
+</p> --->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=asadujjamanmridul&theme=vue-dark&show_icons=true&hide_border=true" />
 <p align="center">
   <a href="https://github.com/asadujjamanmridul"> <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=asadujjamanmridul&layout=compact&theme=vue-dark&hide_border=true" />
