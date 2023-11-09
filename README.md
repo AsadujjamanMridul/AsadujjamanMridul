@@ -19,6 +19,7 @@
 - 📫 Reach out to me through the electronic ravens at **asadujjaman.mridul@gmail.com**.
 
 <br/>
+
 <h2 align="center">
 <a href="https://github.com/AsadujjamanMridul/AsadujjamanMridul/raw/main/Asadujjaman%20Mridul%20Resume.pdf" download>Download Resume</a>
 </h2>
@@ -73,6 +74,7 @@
 
 <br/>
 
-**Let's code the future together! ✨**
-
+<h4 align="center">
+  **Let's code the future together! ✨**
+</h4>
 <br/>
