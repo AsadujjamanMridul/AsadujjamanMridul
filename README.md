@@ -2,19 +2,20 @@
   👋 Greetings, fellow coders!
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
 </h2>
-I'm Asadujjaman Mridul, the architect of pixels and lines.
 
 <h4 align="center">
-🎓 A proud alumnus of **[Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd/)**, I wield a BSc in **Computer Science & Engineering**, marking the completion of a chapter in my academic saga.
+  I'm Asadujjaman Mridul, the architect of pixels and lines.
 </h4>
+
+🎓 A proud alumnus of **[Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd/)**, I wield a BSc in **Computer Science & Engineering**, marking the completion of a chapter in my academic saga.
 <br/>
 
-🌟 In the realms of web development, I have successfully completed the epic quest of the **[Complete Web Development Course with Jhankar Mahbub](https://web.programming-hero.com/)**. Armed with sacred knowledge, I proudly hold the title of **Black Belt Web Developer**, symbolizing my mastery in the coding arts.
+🌟 In the realm of web development, I have successfully completed the epic quest of the **[Complete Web Development Course with Jhankar Mahbub](https://web.programming-hero.com/)**. Armed with sacred knowledge, I proudly hold the title of **Black Belt Web Developer**, symbolizing my mastery in the coding arts.
 <br/>
 <br/>
 
-- 🚀 Embarking on a cosmic journey to unravel the mysteries of **Redux**, I seek to wield the power of seamless state management.
-- 📫 Reach out to me through the electronic ravens at **asadujjaman.mridul@gmail.com**—I'm always eager to converse in the binary dialect.
+- 🚀 Embarking on a cosmic journey to unravel the mysteries of **Redux**.
+- 📫 Reach out to me through the electronic ravens at **asadujjaman.mridul@gmail.com**.
 
 <br/>
 <h2 align="center">
