@@ -1,27 +1,25 @@
 <h2 align="center">
-  👋 Greetings, fellow coders! I'm Asadujjaman Mridul, the architect of pixels and lines.
+  👋 Greetings, fellow coders!
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
 </h2>
+I'm Asadujjaman Mridul, the architect of pixels and lines.
 
 <h4 align="center">
-🎓 A proud alumnus of **[Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd)**, I wield a BSc in **Computer Science & Engineering**, marking the completion of a chapter in my academic saga.
+🎓 A proud alumnus of **[Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd/)**, I wield a BSc in **Computer Science & Engineering**, marking the completion of a chapter in my academic saga.
 </h4>
-
 <br/>
+
 🌟 In the realms of web development, I have successfully completed the epic quest of the **[Complete Web Development Course with Jhankar Mahbub](https://web.programming-hero.com/)**. Armed with sacred knowledge, I proudly hold the title of **Black Belt Web Developer**, symbolizing my mastery in the coding arts.
+<br/>
 <br/>
 
 - 🚀 Embarking on a cosmic journey to unravel the mysteries of **Redux**, I seek to wield the power of seamless state management.
 - 📫 Reach out to me through the electronic ravens at **asadujjaman.mridul@gmail.com**—I'm always eager to converse in the binary dialect.
 
 <br/>
-For those curious about the chronicles of my coding adventures, delve into the pages of my...
 <h2 align="center">
-<a href="https://github.com/AsadujjamanMridul/AsadujjamanMridul/raw/main/Asadujjaman%20Mridul%20Resume.pdf" download>virtual scroll of wisdom</a>
+<a href="https://github.com/AsadujjamanMridul/AsadujjamanMridul/raw/main/Asadujjaman%20Mridul%20Resume.pdf" download>Download Resume</a>
 </h2>
-<br/>
-
-**Let's code the future together! ✨**
 <br/>
 
 
@@ -71,3 +69,7 @@ For those curious about the chronicles of my coding adventures, delve into the p
   <a href="https://github.com/asadujjamanmridul"> <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=asadujjamanmridul&layout=compact&theme=vue-dark&hide_border=true" />
 </a>
 </p>
+
+<br/>
+**Let's code the future together! ✨**
+<br/>
