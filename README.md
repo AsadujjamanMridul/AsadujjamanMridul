@@ -22,7 +22,6 @@
 <h2 align="center">
 <a href="https://github.com/AsadujjamanMridul/AsadujjamanMridul/raw/main/Asadujjaman%20Mridul%20Resume.pdf" download>Download Resume</a>
 </h2>
-
 <br/>
 
 ## Connect with me
@@ -73,5 +72,7 @@
 </p>
 
 <br/>
+
 **Let's code the future together! ✨**
+
 <br/>
