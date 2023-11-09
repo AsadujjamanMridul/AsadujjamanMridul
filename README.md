@@ -11,7 +11,7 @@
 🎓 A proud alumnus of **[Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd/)**, I wield a BSc in **Computer Science & Engineering**, marking the completion of a chapter in my academic saga.
 <br/>
 
-🌟 In the realm of web development, I have successfully completed the epic quest of the **[Complete Web Development Course with Jhankar Mahbub](https://web.programming-hero.com/)**. Armed with sacred knowledge, I proudly hold the title of **Black Belt Web Developer**, symbolizing my mastery in the coding arts.
+🌟 In the realm of web development, I have successfully completed the epic quest of the **[Complete Web Development Course with Jhankar Mahbub](https://drive.google.com/file/d/1SZ5ICUsL1rmj_m8R8JxEKHSRgWXSMSBS/view?usp=sharing/)**. Armed with sacred knowledge, I proudly hold the title of **[Black Belt Web Developer](https://drive.google.com/file/d/1C1Ye7el9PrM1cZZjqMf5UbOMzluasjTm/view?usp=sharing/)**, symbolizing my mastery in the coding arts.
 <br/>
 <br/>
 
@@ -24,6 +24,7 @@
 </h2>
 
 <br/>
+
 ## Connect with me
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:asadujjaman.mridul@gmail.com)
