@@ -4,8 +4,9 @@
 </h2>
 
 <h4 align="center">
-  I'm Asadujjaman Mridul, the architect of pixels and lines.
+  I'm <a href="https://asad-mridul.netlify.app/">Asadujjaman Mridul</a>, the architect of pixels and lines.
 </h4>
+<br/>
 
 🎓 A proud alumnus of **[Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd/)**, I wield a BSc in **Computer Science & Engineering**, marking the completion of a chapter in my academic saga.
 <br/>
@@ -21,9 +22,8 @@
 <h2 align="center">
 <a href="https://github.com/AsadujjamanMridul/AsadujjamanMridul/raw/main/Asadujjaman%20Mridul%20Resume.pdf" download>Download Resume</a>
 </h2>
+
 <br/>
-
-
 ## Connect with me
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:asadujjaman.mridul@gmail.com)
