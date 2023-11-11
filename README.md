@@ -20,10 +20,10 @@
 
 <br>
 
-> :Buttons
-> > :Button icon=true, label=code, url=https://github.com
+>:Buttons
+>>:Button icon=true, label=code, url=https://github.com
 >
-> > :Button label=NPM, url=https://npmjs.org
+>>:Button label=NPM, url=https://npmjs.org
 
 <br>
 
