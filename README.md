@@ -18,7 +18,9 @@
 - 🚀 Embarking on a cosmic journey to unravel the mysteries of **Redux**.
 - 📫 Reach out to me through the electronic ravens at **asadujjaman.mridul@gmail.com**.
 
-<br/>
+<br>
+
+[<kbd> <br> <h2> Download Resume </h2> <br> </kbd>][https://github.com/AsadujjamanMridul/AsadujjamanMridul/raw/main/Asadujjaman%20Mridul%20Resume.pdf]
 
 <h2 align="center">
 <a href="https://github.com/AsadujjamanMridul/AsadujjamanMridul/raw/main/Asadujjaman%20Mridul%20Resume.pdf" download>Download Resume</a>
