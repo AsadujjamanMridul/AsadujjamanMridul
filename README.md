@@ -20,6 +20,13 @@
 
 <br>
 
+> :Buttons
+> > :Button icon=true, label=code, url=https://github.com
+>
+> > :Button label=NPM, url=https://npmjs.org
+
+<br>
+
 <h2 align="center">
 <a href="https://github.com/AsadujjamanMridul/AsadujjamanMridul/raw/main/Asadujjaman%20Mridul%20Resume.pdf" download>Download Resume</a>
 <br><br>
