@@ -3,10 +3,10 @@
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
 </h2>
 
-<h4 align="center">
-  I'm <a href="https://asad-mridul.netlify.app/">Asadujjaman Mridul</a>, the architect of pixels and lines.
-</h4>
-<br/>
+<h3 align="center">
+  I'm <a href="https://asad-mridul.netlify.app/">Asadujjaman Mridul</a>, an architect of pixels and lines.
+</h3>
+<br>
 
 🎓 A proud alumnus of **[Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd/)**, I wield a BSc in **Computer Science & Engineering**, marking the completion of a chapter in my academic saga.
 <br/>
@@ -22,6 +22,7 @@
 
 <h2 align="center">
 <a href="https://github.com/AsadujjamanMridul/AsadujjamanMridul/raw/main/Asadujjaman%20Mridul%20Resume.pdf" download>Download Resume</a>
+<br><br>
 </h2>
 
 ## Connect with me
