@@ -9,7 +9,7 @@
 </h3>
 
 <h4 align="center">
-  <img src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.webp" width="80">
+  <img src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.webp" width="250">
 </h4>
 <br>
 
