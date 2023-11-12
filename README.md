@@ -1,7 +1,12 @@
 <h2 align="center">
-  👋 Greetings, fellow coders! <img src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.webp" width="28">
+  👋 Greetings, fellow coders!
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
 </h2>
+<br>
+
+<h4>
+  <img src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.webp" width="28">
+</h4>
 
 <h3 align="center">
   I'm <a href="https://asad-mridul.netlify.app/">Asadujjaman Mridul</a>, an architect of pixels and lines.
