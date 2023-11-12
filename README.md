@@ -1,5 +1,5 @@
 <h2 align="center">
-  👋 Greetings, fellow coders!
+  👋 Greetings, fellow coders! <img src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.webp" width="28">
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
 </h2>
 
